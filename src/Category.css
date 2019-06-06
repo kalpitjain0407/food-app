@@ -1,0 +1,31 @@
+.card-category{
+    display: inline-block;
+    margin: 40px;
+    padding:20px;
+    width:18rem;
+    border:solid 1px;
+    border-radius: 4px;
+}
+
+.card-single-category{
+    display: inline-block;
+    margin: 30px;
+    padding:15px;
+    /* width: 20rem;
+    height: 30rem; */
+    border:solid 1px;
+    border-radius: 4px;
+}
+
+.card-favorite{
+    display: inline-block;
+    margin: 30px;
+    padding:10px;
+    /* width: 20rem; */
+    border:solid 1px;
+    border-radius: 4px;
+}
+
+.header-style{
+    margin-top: 10px;
+}
